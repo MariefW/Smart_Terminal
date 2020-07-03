@@ -8,6 +8,14 @@ Smart Terminal ini dapat digunakan untuk mengontrol dan memonitor penggunaan ene
   <li>Sensor Arus & Tegangan PZEM-004t</li>
   <li>Kabel Jumper</li>
 </ul>
+
+<h3>Perangkat lunak:</h3>
+<ul>
+  <li>Arduino IDE</li>
+  <li>MIT App Inventor</li>
+  <li>ANTARES</li>
+</ul>
+
 <h3>File program :</h3>
 <ul>
   <li>File <b>Smart_Terminal.ino</b> digunakan untuk memprogram Wemos D1 R1 di Arduino IDE</li>
