@@ -1,4 +1,5 @@
 # Smart_Terminal
+<img src="gambar/header.png" width="auto" height="300">
 Smart Terminal ini dapat digunakan untuk mengontrol dan memonitor penggunaan energi listrik alat elektronik di rumah. Variabel yang dapat di monitor ialah Tegangan, Arus, Daya dan Energi, serta alat ini juga dapat menampilkan jumlah penggunaan listrik sebuah alat elektronik dalam kurs Rupiah untuk mempermudah pembacaan. Untuk memudahkan penggunaan alat, maka dibuat sebuah aplikasi android agar alat elektronik rumah dapat di monitor dan di kontrol dari mana saja dan kapan saja.
 
 <h3>Alat dan Bahan :</h3>
