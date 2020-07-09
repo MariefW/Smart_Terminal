@@ -8,7 +8,7 @@ PZEM004Tv30 pzem(D6, D7);
 // Inisialisasi Variabel Konektivitas
 #define ACCESSKEY "ce1971d35a88d305:5e15f019ac0590bc"
 #define WIFISSID "Coles"
-#define PASSWORD "lorenzo987"
+#define PASSWORD "123456"
 
 // Inisialisasi Variabel Project Antares
 #define projectName "Smart_Terminal"
